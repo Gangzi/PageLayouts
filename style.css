@@ -1,6 +1,12 @@
 span {
   display: inline-block;
 }
+body{
+  text-align:center
+}
+html{
+  background-color:lightcyan;
+}
 /* span {
   display: inline-block;
   background-color: lightblue;
